@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1451391013 source:c:\users\ch.aditya\desktop\coding\trie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trie.h"
+
+1451391036 c:\users\ch.aditya\desktop\coding\trie\trie.h
+	<stdbool.h>
+
+1451391144 source:c:\users\ch.aditya\desktop\coding\trie\trie.c
+	<stdlib.h>
+	<assert.h>
+	<stdio.h>
+	<stdbool.h>
+	"trie.h"
+
+1467446303 source:c:\users\ch.aditya\documents\coding\trie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trie.h"
+
+1451391036 c:\users\ch.aditya\documents\coding\trie\trie.h
+	<stdbool.h>
+
+1451397168 source:c:\users\ch.aditya\documents\coding\trie\trie.c
+	<stdlib.h>
+	<assert.h>
+	<stdio.h>
+	<stdbool.h>
+	"trie.h"
+
